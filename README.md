@@ -1,11 +1,6 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm John Carlo Alberto</h1>
 <h3 align="center">A System Developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bebertkyut" alt="bebertkyut" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,7 +13,7 @@
 <!--
 **bebertkyut/bebertkyut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
